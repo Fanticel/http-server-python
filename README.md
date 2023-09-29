@@ -1,3 +1,8 @@
+This is my solution to the CodeCrafters 'Build your own HTTP server' exercise
+Hte following is the original readme
+
+
+
 [![progress-banner](https://backend.codecrafters.io/progress/http-server/7d233bec-f3af-40c1-9102-9b28f19c0a1a)](https://app.codecrafters.io/users/Fanticel?r=2qF)
 
 This is a starting point for Python solutions to the

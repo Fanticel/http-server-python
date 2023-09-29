@@ -1,5 +1,6 @@
 This is my solution to the CodeCrafters 'Build your own HTTP server' exercise
-Hte following is the original readme
+
+The following is the original readme
 
 
 
